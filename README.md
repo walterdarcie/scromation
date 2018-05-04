@@ -23,18 +23,20 @@ The plugin currently accepts three options
 
 __Example 1__
 
-    $('.animation').scromation({
-			total_frames: 12,
-			smoothness: 100,
-			frame_class_base: 'my_animation',
-		});
+	$('.animation').scromation({
+		total_frames: 12,
+		smoothness: 100,
+		frame_class_base: 'my_animation',
+	});
 
 
 __Example 2 (the animation will run backwards)__
 
-    $('.animation').scromation({
-      smoothness: -50,
-		});
+	$('.animation').scromation({
+		smoothness: -50,
+	});
+	
+### Data options
 
 You can also set the options on the HTML using data atributtes
 
