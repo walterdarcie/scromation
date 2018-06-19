@@ -43,3 +43,7 @@ You can also set the options on the HTML using data atributtes
 __Example__
 
     <div class="animation my_animation_1" data-total_frames="12" data-smoothness="100" data-frame_class_base="my_animation"></div>
+
+## Application
+
+[World Cup 2018 infographic for Gazeta Esportiva special website](https://www.gazetaesportiva.com/infograficos/estadios-das-finais-dos-mundiais/)
